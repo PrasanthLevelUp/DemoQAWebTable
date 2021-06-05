@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24464" started-at="2021-06-05T14:58:15 IST" finished-at="2021-06-05T14:58:39 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="24464" started-at="2021-06-05T14:58:15 IST" finished-at="2021-06-05T14:58:39 IST">
+      <class name="com.WebAutomation.testcases.TC1_WebTable">
+        <test-method status="PASS" signature="start(java.lang.String)[pri:0, instance:com.WebAutomation.testcases.TC1_WebTable@184f6be2]" name="start" is-config="true" duration-ms="13509" started-at="2021-06-05T14:58:15 IST" finished-at="2021-06-05T14:58:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="AddUser()[pri:0, instance:com.WebAutomation.testcases.TC1_WebTable@184f6be2]" name="AddUser" duration-ms="9546" started-at="2021-06-05T14:58:28 IST" finished-at="2021-06-05T14:58:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddUser -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.WebAutomation.testcases.TC1_WebTable@184f6be2]" name="end" is-config="true" duration-ms="1309" started-at="2021-06-05T14:58:38 IST" finished-at="2021-06-05T14:58:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.WebAutomation.testcases.TC1_WebTable -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
